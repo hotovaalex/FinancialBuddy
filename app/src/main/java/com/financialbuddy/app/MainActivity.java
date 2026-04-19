@@ -40,6 +40,9 @@ public class MainActivity extends AppCompatActivity {
     public static final String EXTRA_AMOUNT = "amount";
     public static final String EXTRA_MERCHANT = "merchant";
 
+    public static final String EXTRA_NOTIF_TEXT = "notif_text";
+    public static final String EXTRA_NOTIF_SOURCE = "notif_source";
+
     private TextView tvMonth;
     private ListView lvCategories;
     private Calendar currentMonth;
