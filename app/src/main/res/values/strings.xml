@@ -3,7 +3,23 @@
     <string name="app_name">Financial Buddy</string>
     <string name="notification_listener_label">Financial Buddy Payment Detector</string>
     <string name="notification_access_title">Enable Payment Detection</string>
-    <string name="notification_access_message">Grant notification access so Financial Buddy can automatically detect Google Pay and bank transactions — no manual input needed.</string>
+    <string name="notification_access_message">Grant notification access so Financial Buddy can automatically detect Google Pay and bank transactions.</string>
     <string name="allow">Allow</string>
     <string name="later">Later</string>
+    
+    <string name="the_vault">The Vault</string>
+    <string name="add_category">+ Category</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="delete_confirm">Delete this category?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="log_transaction">Log Transaction</string>
+    <string name="amount">Amount</string>
+    <string name="merchant">Merchant</string>
+    <string name="category_name">Category Name</string>
+    <string name="monthly_limit">Monthly Limit</string>
+    <string name="tx_saved">Transaction Saved!</string>
 </resources>
