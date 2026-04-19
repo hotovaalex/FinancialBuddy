@@ -6,6 +6,11 @@ android {
     namespace 'com.financialbuddy.app'
     compileSdk 34
 
+    // 👉 ADDED BLOCK:
+    buildFeatures {
+        buildConfig true
+    }
+
     defaultConfig {
         applicationId "com.financialbuddy.app"
         minSdk 26
