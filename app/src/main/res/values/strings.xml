@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Financial Buddy</string>
+    <string name="notification_listener_label">Financial Buddy Payment Detector</string>
+    <string name="notification_access_title">Enable Payment Detection</string>
+    <string name="notification_access_message">Grant notification access so Financial Buddy can automatically detect Google Pay and bank transactions — no manual input needed.</string>
+    <string name="allow">Allow</string>
+    <string name="later">Later</string>
+</resources>
